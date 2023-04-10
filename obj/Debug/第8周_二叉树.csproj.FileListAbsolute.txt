@@ -1,0 +1,49 @@
+C:\Users\13217\Desktop\课程\数据结构\上机练习\第8周_二叉树\bin\Debug\第8周_二叉树.exe.config
+C:\Users\13217\Desktop\课程\数据结构\上机练习\第8周_二叉树\bin\Debug\第8周_二叉树.exe
+C:\Users\13217\Desktop\课程\数据结构\上机练习\第8周_二叉树\bin\Debug\第8周_二叉树.pdb
+C:\Users\13217\Desktop\课程\数据结构\上机练习\第8周_二叉树\obj\Debug\第8周_二叉树.csprojAssemblyReference.cache
+C:\Users\13217\Desktop\课程\数据结构\上机练习\第8周_二叉树\obj\Debug\第8周_二叉树.MainForm.resources
+C:\Users\13217\Desktop\课程\数据结构\上机练习\第8周_二叉树\obj\Debug\第8周_二叉树.Properties.Resources.resources
+C:\Users\13217\Desktop\课程\数据结构\上机练习\第8周_二叉树\obj\Debug\第8周_二叉树.csproj.GenerateResource.cache
+C:\Users\13217\Desktop\课程\数据结构\上机练习\第8周_二叉树\obj\Debug\第8周_二叉树.exe
+C:\Users\13217\Desktop\课程\数据结构\上机练习\第8周_二叉树\obj\Debug\第8周_二叉树.pdb
+C:\Users\57109\Desktop\2022年上课\数据结构\上机课\第三次课\二叉树\bin\Debug\第8周_二叉树.exe.config
+C:\Users\57109\Desktop\2022年上课\数据结构\上机课\第三次课\二叉树\bin\Debug\第8周_二叉树.exe
+C:\Users\57109\Desktop\2022年上课\数据结构\上机课\第三次课\二叉树\bin\Debug\第8周_二叉树.pdb
+C:\Users\57109\Desktop\2022年上课\数据结构\上机课\第三次课\二叉树\obj\Debug\第8周_二叉树.csprojAssemblyReference.cache
+C:\Users\57109\Desktop\2022年上课\数据结构\上机课\第三次课\二叉树\obj\Debug\第8周_二叉树.MainForm.resources
+C:\Users\57109\Desktop\2022年上课\数据结构\上机课\第三次课\二叉树\obj\Debug\第8周_二叉树.Properties.Resources.resources
+C:\Users\57109\Desktop\2022年上课\数据结构\上机课\第三次课\二叉树\obj\Debug\第8周_二叉树.csproj.GenerateResource.cache
+C:\Users\57109\Desktop\2022年上课\数据结构\上机课\第三次课\二叉树\obj\Debug\第8周_二叉树.csproj.CoreCompileInputs.cache
+C:\Users\57109\Desktop\2022年上课\数据结构\上机课\第三次课\二叉树\obj\Debug\第8周_二叉树.exe
+C:\Users\57109\Desktop\2022年上课\数据结构\上机课\第三次课\二叉树\obj\Debug\第8周_二叉树.pdb
+C:\Users\57109\Desktop\2023年上课\数据结构\上机课\第五次课\二叉树\bin\Debug\第8周_二叉树.exe.config
+C:\Users\57109\Desktop\2023年上课\数据结构\上机课\第五次课\二叉树\bin\Debug\第8周_二叉树.exe
+C:\Users\57109\Desktop\2023年上课\数据结构\上机课\第五次课\二叉树\bin\Debug\第8周_二叉树.pdb
+C:\Users\57109\Desktop\2023年上课\数据结构\上机课\第五次课\二叉树\obj\Debug\第8周_二叉树.csprojAssemblyReference.cache
+C:\Users\57109\Desktop\2023年上课\数据结构\上机课\第五次课\二叉树\obj\Debug\第8周_二叉树.MainForm.resources
+C:\Users\57109\Desktop\2023年上课\数据结构\上机课\第五次课\二叉树\obj\Debug\第8周_二叉树.Properties.Resources.resources
+C:\Users\57109\Desktop\2023年上课\数据结构\上机课\第五次课\二叉树\obj\Debug\第8周_二叉树.csproj.GenerateResource.cache
+C:\Users\57109\Desktop\2023年上课\数据结构\上机课\第五次课\二叉树\obj\Debug\第8周_二叉树.csproj.CoreCompileInputs.cache
+C:\Users\57109\Desktop\2023年上课\数据结构\上机课\第五次课\二叉树\obj\Debug\第8周_二叉树.exe
+C:\Users\57109\Desktop\2023年上课\数据结构\上机课\第五次课\二叉树\obj\Debug\第8周_二叉树.pdb
+D:\代码\C#\2023-1 数据结构上机代码\第五周 二叉树\obj\Debug\第8周_二叉树.csproj.AssemblyReference.cache
+D:\代码\C#\2023-1 数据结构上机代码\第五周 二叉树\obj\Debug\第8周_二叉树.MainForm.resources
+D:\代码\C#\2023-1 数据结构上机代码\第五周 二叉树\obj\Debug\第8周_二叉树.Properties.Resources.resources
+D:\代码\C#\2023-1 数据结构上机代码\第五周 二叉树\obj\Debug\第8周_二叉树.csproj.GenerateResource.cache
+D:\代码\C#\2023-1 数据结构上机代码\第五周 二叉树\obj\Debug\第8周_二叉树.csproj.CoreCompileInputs.cache
+D:\代码\C#\2023-1 数据结构上机代码\第五周 二叉树\obj\Debug\第8周_二叉树.exe
+D:\代码\C#\2023-1 数据结构上机代码\第五周 二叉树\obj\Debug\第8周_二叉树.pdb
+D:\代码\C#\2023-1 数据结构上机代码\第五周 二叉树\bin\Debug\第8周_二叉树.exe.config
+D:\代码\C#\2023-1 数据结构上机代码\第五周 二叉树\bin\Debug\第8周_二叉树.exe
+D:\代码\C#\2023-1 数据结构上机代码\第五周 二叉树\bin\Debug\第8周_二叉树.pdb
+D:\代码\C#\2023-1 数据结构上机代码\第5周 二叉树\bin\Debug\第8周_二叉树.exe.config
+D:\代码\C#\2023-1 数据结构上机代码\第5周 二叉树\bin\Debug\第8周_二叉树.exe
+D:\代码\C#\2023-1 数据结构上机代码\第5周 二叉树\bin\Debug\第8周_二叉树.pdb
+D:\代码\C#\2023-1 数据结构上机代码\第5周 二叉树\obj\Debug\第8周_二叉树.csproj.AssemblyReference.cache
+D:\代码\C#\2023-1 数据结构上机代码\第5周 二叉树\obj\Debug\第8周_二叉树.MainForm.resources
+D:\代码\C#\2023-1 数据结构上机代码\第5周 二叉树\obj\Debug\第8周_二叉树.Properties.Resources.resources
+D:\代码\C#\2023-1 数据结构上机代码\第5周 二叉树\obj\Debug\第8周_二叉树.csproj.GenerateResource.cache
+D:\代码\C#\2023-1 数据结构上机代码\第5周 二叉树\obj\Debug\第8周_二叉树.csproj.CoreCompileInputs.cache
+D:\代码\C#\2023-1 数据结构上机代码\第5周 二叉树\obj\Debug\第8周_二叉树.exe
+D:\代码\C#\2023-1 数据结构上机代码\第5周 二叉树\obj\Debug\第8周_二叉树.pdb
